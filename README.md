@@ -1,4 +1,4 @@
-# Library-Management-System
+# PISM
 This is my project Library Management System Website which I made under the independent project for Third Semester in my College.
 
 <h2>Website Design</h2>
